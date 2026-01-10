@@ -1,0 +1,3 @@
+I am moving from Descriptive Analytics (what happened) to Diagnostic Analytics (why it happened). 
+I am using Geography as a dimension because logistics performance is inherently spatial. By isolating 'State,' 
+I can determine if our ETA algorithm uses a 'Flat-Earth' model (one rule for everyone) or a 'Dynamic' model.
