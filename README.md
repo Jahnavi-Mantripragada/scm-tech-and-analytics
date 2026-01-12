@@ -29,7 +29,25 @@ Shift the product strategy from **accuracy** (guessing a single “safe” date)
 * Use information—not time padding—to buffer chaos when delays actually occur.
 </details>
 
----
+<details>
+<summary><b>Project 2: The "Leaky Bucket" — Quantifying the Trust Tax on Customer Retention</b></summary>
+
+### The Problem
+Olist suffers from a severe **"One-Timer" problem**, with a **Repeat Purchase Rate (RPR) of only 3.12%**. Despite being a general marketplace, 97% of customers never return, suggesting that the "Customer Experience Gap"—the friction between the promise made at checkout and the actual delivery reality—is killing long-term loyalty.
+
+### The Insight
+By merging logistics performance with user behavioral data, the analysis revealed a **"Trust Tax"** in urban hubs. In São Paulo (the largest market), the system over-estimates delivery by **10.2 days**. 
+* **Competitive Friction:** In cities where competitors like Amazon offer 1-2 day delivery, Olist’s 12-day "Safe Estimate" makes the platform look uncompetitive.
+* **The Utility Trap:** Higher retention in remote states like Acre (~5.2%) suggests Olist is currently a "Necessary Utility" for niche access, but a "Disposable Commodity" in cities where trust and speed are the primary drivers.
+* **The Price Barrier:** Repeat buyers consistently spend **~16% less** ($102 vs $121) than one-timers, showing that high-ticket purchases are "one-and-done" events due to delivery anxiety.
+
+### The Recommendation
+Pivot from a "Growth at all costs" acquisition model to a **"Trust-First" Retention Strategy**:
+* **Dynamic Urban Buffers:** Aggressively reduce ETA padding in high-density urban hubs (SP/RJ) to lower the perception barrier at checkout.
+* **Category-Specific Nurturing:** Incentivize the "Habit-Forming" categories (Health, Beauty, Sports) that showed overlap between loyalists and one-timers, but with lower-friction shipping promises.
+* **Proactive Recovery:** Use the "System Gap" data to trigger automated loyalty rewards. If the tech knows a delivery was significantly padded or delayed, offer a "Trust Discount" before the customer churns.
+</details>
+
 
 ## 🔍 Focus Areas
 
